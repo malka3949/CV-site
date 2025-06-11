@@ -1,68 +1,68 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\",
+  "WorkspaceRootPath": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\CV-site-Libery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practu5Libery\\CV-site-Libery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\155a785f-281e-491d-8e34-b0ff78255515\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1EC4181-F44E-4248-9589-062B342446D7}|Practi5Webapi\\Practi5Webapi.csproj|c:\\d\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\practi5webapi\\practi5webapi\\practi5webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E1EC4181-F44E-4248-9589-062B342446D7}|Practi5Webapi\\Practi5Webapi.csproj|solutionrelative:practi5webapi\\practi5webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1EC4181-F44E-4248-9589-062B342446D7}|Practi5Webapi\\Practi5Webapi.csproj|c:\\d\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\practi5webapi\\practi5webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E1EC4181-F44E-4248-9589-062B342446D7}|Practi5Webapi\\Practi5Webapi.csproj|solutionrelative:practi5webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A283A5-4300-498F-9785-0C0904A5D354}|Practu5Libery\\Practu5Libery.csproj|c:\\d\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\practi5webapi\\practu5libery\\githubservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A283A5-4300-498F-9785-0C0904A5D354}|Practu5Libery\\Practu5Libery.csproj|solutionrelative:practu5libery\\githubservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1EC4181-F44E-4248-9589-062B342446D7}|Practi5Webapi\\Practi5Webapi.csproj|c:\\d\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\practi5webapi\\practi5webapi\\controllers\\gitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1EC4181-F44E-4248-9589-062B342446D7}|Practi5Webapi\\Practi5Webapi.csproj|solutionrelative:practi5webapi\\controllers\\gitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A283A5-4300-498F-9785-0C0904A5D354}|Practu5Libery\\Practu5Libery.csproj|c:\\d\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\practi5webapi\\practu5libery\\repositoryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A283A5-4300-498F-9785-0C0904A5D354}|Practu5Libery\\Practu5Libery.csproj|solutionrelative:practu5libery\\repositoryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A283A5-4300-498F-9785-0C0904A5D354}|Practu5Libery\\Practu5Libery.csproj|c:\\d\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\practi5webapi\\practu5libery\\igithubservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A283A5-4300-498F-9785-0C0904A5D354}|Practu5Libery\\Practu5Libery.csproj|solutionrelative:practu5libery\\igithubservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A283A5-4300-498F-9785-0C0904A5D354}|Practu5Libery\\Practu5Libery.csproj|c:\\d\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\practi5webapi\\practu5libery\\githubintegratinoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A283A5-4300-498F-9785-0C0904A5D354}|Practu5Libery\\Practu5Libery.csproj|solutionrelative:practu5libery\\githubintegratinoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1EC4181-F44E-4248-9589-062B342446D7}|Practi5Webapi\\Practi5Webapi.csproj|c:\\d\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\practi5webapi\\practi5webapi\\cachedservices\\cachedgithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1EC4181-F44E-4248-9589-062B342446D7}|Practi5Webapi\\Practi5Webapi.csproj|solutionrelative:practi5webapi\\cachedservices\\cachedgithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1EC4181-F44E-4248-9589-062B342446D7}|Practi5Webapi\\Practi5Webapi.csproj|c:\\d\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\practi5webapi\\practi5webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1EC4181-F44E-4248-9589-062B342446D7}|Practi5Webapi\\Practi5Webapi.csproj|solutionrelative:practi5webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1EC4181-F44E-4248-9589-062B342446D7}|Practi5Webapi\\Practi5Webapi.csproj|c:\\d\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\practi5webapi\\practi5webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1EC4181-F44E-4248-9589-062B342446D7}|Practi5Webapi\\Practi5Webapi.csproj|solutionrelative:practi5webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A283A5-4300-498F-9785-0C0904A5D354}|Practu5Libery\\Practu5Libery.csproj|c:\\d\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\practi5webapi\\practu5libery\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A283A5-4300-498F-9785-0C0904A5D354}|Practu5Libery\\Practu5Libery.csproj|solutionrelative:practu5libery\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1EC4181-F44E-4248-9589-062B342446D7}|Practi5Webapi\\Practi5Webapi.csproj|c:\\d\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\practi5webapi\\practi5webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1EC4181-F44E-4248-9589-062B342446D7}|Practi5Webapi\\Practi5Webapi.csproj|solutionrelative:practi5webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\a47b7c8e-5f05-4a85-9035-912d99c6c1d6\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A283A5-4300-498F-9785-0C0904A5D354}|Practu5Libery\\Practu5Libery.csproj|c:\\d\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\practi5webapi\\practu5libery\\convert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A283A5-4300-498F-9785-0C0904A5D354}|Practu5Libery\\Practu5Libery.csproj|solutionrelative:practu5libery\\convert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\RepositoryInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practu5Libery\\RepositoryInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A283A5-4300-498F-9785-0C0904A5D354}|Practu5Libery\\Practu5Libery.csproj|c:\\d\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\practi5webapi\\practu5libery\\practu5libery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{87A283A5-4300-498F-9785-0C0904A5D354}|Practu5Libery\\Practu5Libery.csproj|solutionrelative:practu5libery\\practu5libery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\Controllers\\GitController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practi5Webapi\\Controllers\\GitController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practi5Webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\CV-site.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practi5Webapi\\CV-site.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\GitHubIntegratinOption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practu5Libery\\GitHubIntegratinOption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\IGitHubServise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practu5Libery\\IGitHubServise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\GitHubServise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practu5Libery\\GitHubServise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practi5Webapi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\CachedServices\\CachedGitHubService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practi5Webapi\\CachedServices\\CachedGitHubService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practi5Webapi\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\Extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practu5Libery\\Extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practi5Webapi\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\Convert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practu5Libery\\Convert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -77,165 +77,165 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GitHubServise.cs",
-              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practu5Libery\\GitHubServise.cs",
-              "RelativeDocumentMoniker": "Practu5Libery\\GitHubServise.cs",
-              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practu5Libery\\GitHubServise.cs",
-              "RelativeToolTip": "Practu5Libery\\GitHubServise.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T12:57:49.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IGitHubServise.cs",
-              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practu5Libery\\IGitHubServise.cs",
-              "RelativeDocumentMoniker": "Practu5Libery\\IGitHubServise.cs",
-              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practu5Libery\\IGitHubServise.cs",
-              "RelativeToolTip": "Practu5Libery\\IGitHubServise.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAwwBgAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T13:12:59.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "RepositoryInfo.cs",
-              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practu5Libery\\RepositoryInfo.cs",
+              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\RepositoryInfo.cs",
               "RelativeDocumentMoniker": "Practu5Libery\\RepositoryInfo.cs",
-              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practu5Libery\\RepositoryInfo.cs",
+              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\RepositoryInfo.cs",
               "RelativeToolTip": "Practu5Libery\\RepositoryInfo.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAswA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T18:26:00.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T18:26:00.864Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "GitController.cs",
-              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practi5Webapi\\Controllers\\GitController.cs",
+              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\Controllers\\GitController.cs",
               "RelativeDocumentMoniker": "Practi5Webapi\\Controllers\\GitController.cs",
-              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practi5Webapi\\Controllers\\GitController.cs",
+              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\Controllers\\GitController.cs",
               "RelativeToolTip": "Practi5Webapi\\Controllers\\GitController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T15:50:57.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T15:50:57.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practi5Webapi\\appsettings.json",
+              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\appsettings.json",
               "RelativeDocumentMoniker": "Practi5Webapi\\appsettings.json",
-              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practi5Webapi\\appsettings.json",
+              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\appsettings.json",
               "RelativeToolTip": "Practi5Webapi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-11T17:11:31.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T17:11:31.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CV-site.csproj",
+              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\CV-site.csproj",
+              "RelativeDocumentMoniker": "Practi5Webapi\\CV-site.csproj",
+              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\CV-site.csproj",
+              "RelativeToolTip": "Practi5Webapi\\CV-site.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T12:57:12.776Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Practi5Webapi.csproj",
-              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practi5Webapi\\Practi5Webapi.csproj",
-              "RelativeDocumentMoniker": "Practi5Webapi\\Practi5Webapi.csproj",
-              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practi5Webapi\\Practi5Webapi.csproj",
-              "RelativeToolTip": "Practi5Webapi\\Practi5Webapi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-22T12:57:12.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\155a785f-281e-491d-8e34-b0ff78255515\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\155a785f-281e-491d-8e34-b0ff78255515\\secrets.json",
               "ToolTip": "C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\155a785f-281e-491d-8e34-b0ff78255515\\secrets.json",
               "RelativeToolTip": "..\\..\\..\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\155a785f-281e-491d-8e34-b0ff78255515\\secrets.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-22T15:03:08.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T15:03:08.313Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "GitHubIntegratinOption.cs",
-              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practu5Libery\\GitHubIntegratinOption.cs",
+              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\GitHubIntegratinOption.cs",
               "RelativeDocumentMoniker": "Practu5Libery\\GitHubIntegratinOption.cs",
-              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practu5Libery\\GitHubIntegratinOption.cs",
+              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\GitHubIntegratinOption.cs",
               "RelativeToolTip": "Practu5Libery\\GitHubIntegratinOption.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T15:09:46.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T15:09:46.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practi5Webapi\\Program.cs",
-              "RelativeDocumentMoniker": "Practi5Webapi\\Program.cs",
-              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practi5Webapi\\Program.cs",
-              "RelativeToolTip": "Practi5Webapi\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAADYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T15:03:27.391Z",
-              "EditorCaption": ""
+              "DocumentIndex": 0,
+              "Title": "CV-site-Libery.csproj",
+              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\CV-site-Libery.csproj",
+              "RelativeDocumentMoniker": "Practu5Libery\\CV-site-Libery.csproj",
+              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\CV-site-Libery.csproj",
+              "RelativeToolTip": "Practu5Libery\\CV-site-Libery.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T13:02:12.204Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "CachedGitHubService.cs",
-              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practi5Webapi\\CachedServices\\CachedGitHubService.cs",
-              "RelativeDocumentMoniker": "Practi5Webapi\\CachedServices\\CachedGitHubService.cs",
-              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practi5Webapi\\CachedServices\\CachedGitHubService.cs",
-              "RelativeToolTip": "Practi5Webapi\\CachedServices\\CachedGitHubService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Title": "IGitHubServise.cs",
+              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\IGitHubServise.cs",
+              "RelativeDocumentMoniker": "Practu5Libery\\IGitHubServise.cs",
+              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\IGitHubServise.cs",
+              "RelativeToolTip": "Practu5Libery\\IGitHubServise.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwBgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T14:37:37.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T13:12:59.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GitHubServise.cs",
+              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\GitHubServise.cs",
+              "RelativeDocumentMoniker": "Practu5Libery\\GitHubServise.cs",
+              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\GitHubServise.cs",
+              "RelativeToolTip": "Practu5Libery\\GitHubServise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:57:49.912Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practi5Webapi\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Practi5Webapi\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practi5Webapi\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Practi5Webapi\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAMAAAABAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\Program.cs",
+              "RelativeDocumentMoniker": "Practi5Webapi\\Program.cs",
+              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\Program.cs",
+              "RelativeToolTip": "Practi5Webapi\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIBJwDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T15:55:20.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T15:03:27.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
+              "Title": "CachedGitHubService.cs",
+              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\CachedServices\\CachedGitHubService.cs",
+              "RelativeDocumentMoniker": "Practi5Webapi\\CachedServices\\CachedGitHubService.cs",
+              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\CachedServices\\CachedGitHubService.cs",
+              "RelativeToolTip": "Practi5Webapi\\CachedServices\\CachedGitHubService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:37:37.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Practi5Webapi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Practi5Webapi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:55:20.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\a47b7c8e-5f05-4a85-9035-912d99c6c1d6\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\a47b7c8e-5f05-4a85-9035-912d99c6c1d6\\secrets.json",
               "ToolTip": "C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\a47b7c8e-5f05-4a85-9035-912d99c6c1d6\\secrets.json",
               "RelativeToolTip": "..\\..\\..\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\a47b7c8e-5f05-4a85-9035-912d99c6c1d6\\secrets.json",
-              "ViewState": "AQIAAAIAAAAAAAAAAABRwAUAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-22T14:22:41.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Extensions.cs",
-              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practu5Libery\\Extensions.cs",
+              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\Extensions.cs",
               "RelativeDocumentMoniker": "Practu5Libery\\Extensions.cs",
-              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practu5Libery\\Extensions.cs",
+              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\Extensions.cs",
               "RelativeToolTip": "Practu5Libery\\Extensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -243,11 +243,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practi5Webapi\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Practi5Webapi\\WeatherForecast.cs",
-              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practi5Webapi\\WeatherForecast.cs",
+              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practi5Webapi\\WeatherForecast.cs",
               "RelativeToolTip": "Practi5Webapi\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,27 +255,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Convert.cs",
-              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practu5Libery\\Convert.cs",
+              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\Convert.cs",
               "RelativeDocumentMoniker": "Practu5Libery\\Convert.cs",
-              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practu5Libery\\Convert.cs",
+              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\CV-site\\Practu5Libery\\Convert.cs",
               "RelativeToolTip": "Practu5Libery\\Convert.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T21:09:20.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Practu5Libery.csproj",
-              "DocumentMoniker": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practu5Libery\\Practu5Libery.csproj",
-              "RelativeDocumentMoniker": "Practu5Libery\\Practu5Libery.csproj",
-              "ToolTip": "C:\\D\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\Practi5Webapi\\Practu5Libery\\Practu5Libery.csproj",
-              "RelativeToolTip": "Practu5Libery\\Practu5Libery.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-22T13:02:12.204Z"
             }
           ]
         }

@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Practu5Libery\Practu5Libery.csproj" />
+    <ProjectReference Include="..\Practu5Libery\CV-site-Libery.csproj" />
   </ItemGroup>
 
 </Project>
